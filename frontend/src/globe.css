@@ -1,0 +1,1 @@
+.globeCanvas{height:350px;width:min(680px,100%);margin:35px auto 0;filter:drop-shadow(0 -16px 34px #8dbeb4aa)}.globeCanvas canvas{touch-action:none}@media(max-width:750px){.globeCanvas{height:270px;margin-top:24px}}@media(max-width:430px){.globeCanvas{height:230px}}

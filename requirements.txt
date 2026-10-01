@@ -1,0 +1,23 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+langchain
+langgraph
+langchain-groq
+groq
+
+httpx
+python-dotenv
+tavily-python
+langchain-tavily
+
+supabase
+
+pytest
+pytest-asyncio
+starlette
+
+# react-leaflet 
+#install react react-leaflet using npm
